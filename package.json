@@ -17,9 +17,9 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "pack": "vue-cli-service build --target lib --name VueConfirm ./src/Event.js"
+    "pack": "vue-cli-service build --target lib --name VueEventy ./src/Event.js"
   },
-  "main": "./src/Event.js",
+  "main": "src/Event.js",
   "files": [
     "dist/*.js",
     "dist/*.js.map",
